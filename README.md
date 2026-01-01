@@ -4,6 +4,8 @@
 
 A character compressor featuring switchable analog modeling (VCA/FET/Opto) and a unique Response Density macro-control for intuitive timing adjustment.
 
+**Part of the SeshNx Plugin Suite by Amalia Media LLC**
+
 ## Features
 
 ### Core Material (Compression Models)
@@ -132,5 +134,24 @@ Source/
 
 ---
 
-*SeshNx Reactor v1.0.0*
-*Amalia Media LLC*
+## Version
+
+**v1.0.0**
+
+---
+
+## License
+
+Copyright (c) 2024 Amalia Media LLC. All rights reserved.
+
+Proprietary software - Distribution prohibited without explicit permission.
+
+---
+
+## Support
+
+For technical support, bug reports, or feature requests, please contact the development team through official SeshNx channels.
+
+---
+
+*Part of the [SeshNx Plugin Suite](https://seshnx.com) by Amalia Media LLC*
